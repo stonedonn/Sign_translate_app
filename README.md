@@ -1,4 +1,4 @@
-# Sign_translate_app
+# ✨Sign_translate_app
 
 ## Android와 Django, MySQL, DL을 이용한 실시간 수화 번역 앱입니다.
 
