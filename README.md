@@ -29,5 +29,6 @@ Django URL은 http://0.0.0.0:8000/language와 http://0.0.0.0:8000/upload 입니�
  - 사용 DB: MySQL
  - 사용 언어: Python, Kotlin, XML
 ***
+## 🎈DEMO🎈
 ## ❤조원
-김소은, 박성환, 박정환, 
+김소은, 박성환, 박정환, 이동현
