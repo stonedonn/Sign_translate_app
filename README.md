@@ -30,5 +30,7 @@ Django URL은 http://0.0.0.0:8000/language와 http://0.0.0.0:8000/upload 입니�
  - 사용 언어: Python, Kotlin, XML
 ***
 ## 🎈DEMO🎈
+![sign_trans](https://user-images.githubusercontent.com/46741844/139362121-e479f29c-5806-43a5-abee-c450bdd20ee3.gif)
+***
 ## ❤조원
 김소은, 박성환, 박정환, 이동현
