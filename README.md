@@ -16,7 +16,15 @@ Django URL은 http://0.0.0.0:8000/language와 http://0.0.0.0:8000/upload 입니�
  - 안드로이드를 활용하여 누구나 쉽게 사용할 수 있도록 제공
 ***
 ## 응용 분야
+ - 사회적 베리어프리로 사회적 공익 실현
+ - 딥러닝을 통한 영상학습 및 분석
+ - 장애인, 비장애인간 소통을 위한 유니버셜 디자인
 ***
 ## 사용 기술
+ - 개발환경: Windows 10, Ubuntu, Linux
+ - 개발도구: Android Studio, OpenCV, Tensorflow, Pycharm, Anaconda, MySQL Workbench, Django, Jupyter notebook, scikit-learn, Mediapipe, Retrofit2, Rest API
+ - 사용 DB: MySQL
+ - 사용 언어: Python, Kotlin, XML
 ***
-## 
+## 조원
+김소은, 박성환, 박정환, 
