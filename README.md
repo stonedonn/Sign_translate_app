@@ -20,6 +20,9 @@ Django URL은 http://0.0.0.0:8000/language와 http://0.0.0.0:8000/upload 입니�
  - 딥러닝을 통한 영상학습 및 분석
  - 장애인, 비장애인간 소통을 위한 유니버셜 디자인
 ***
+## 시스템 구조도
+![시스템구조도2](https://user-images.githubusercontent.com/46741844/139360236-81107877-4219-4df0-bb05-ed94d94a5e2b.png)
+***
 ## 사용 기술
  - 개발환경: Windows 10, Ubuntu, Linux
  - 개발도구: Android Studio, OpenCV, Tensorflow, Pycharm, Anaconda, MySQL Workbench, Django, Jupyter notebook, scikit-learn, Mediapipe, Retrofit2, Rest API
